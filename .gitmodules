@@ -1,0 +1,3 @@
+[submodule "Assets/scrobj-child"]
+	path = Assets/scrobj-child
+	url = git@github.com:mandarinx/scrobj-child.git
